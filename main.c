@@ -1,5 +1,5 @@
 /*
-Team S4B
+Members
 1) Prakarsha Poudel
 2) Spencer Opitz
 3) Marina 
