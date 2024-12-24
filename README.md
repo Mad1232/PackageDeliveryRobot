@@ -1,13 +1,27 @@
-Problem
-Amazon delivery drivers encounter everyday obstacles like adverse weather, problematic pets, and unresponsive recipients, 
-all slowing down their deliveries. Making deliveries through a Package Delivery Robot streamlines this process. 
-Drivers can leave packages with the robot in the garden, then the robot will deliver it to the doorstep and play a short music upon arrival to let the recipient know their package 
-is here, ensuring efficient and reliable delivery, regardless of external factors.
+# Package Delivery Robot: Enhancing Amazon Deliveries  
 
-High-Level mission goals
-Efficient package delivery: Allow Amazon delivery drivers to drop off packages with a remotely controlled Delivery Robot stationed in the garden. 
-Avoid obstacles: Navigate around trees, rocks and possible cliffs in the garden.
-Travel to the doorstep: The doorstep is indicated by four thin pillars arranged in a square fashion. When arrived, let the owner know we’re here by playing a sound. 
+## Problem  
+Amazon delivery drivers face numerous challenges during their daily routes, including adverse weather conditions, encounters with problematic pets, and unresponsive recipients. These obstacles slow down the delivery process and reduce efficiency.  
 
+Introducing a **Package Delivery Robot** to streamline deliveries:  
+- Drivers can leave packages with the robot stationed in the garden.  
+- The robot autonomously delivers the package to the recipient’s doorstep.  
+- Upon arrival, the robot plays a short tune to notify the recipient that their package has been delivered.  
 
-Making use of Cybot with microcontroller TM4C microcontrollers
+This approach ensures **efficient** and **reliable** deliveries, regardless of external factors.  
+
+## High-Level Mission Goals  
+
+1. **Efficient Package Delivery:**  
+   - Allow Amazon delivery drivers to drop off packages with a remotely controlled Delivery Robot stationed in the garden.  
+
+2. **Obstacle Avoidance:**  
+   - Navigate around common garden obstacles such as trees, rocks, and cliffs.  
+
+3. **Doorstep Navigation:**  
+   - Identify the doorstep, indicated by four thin pillars arranged in a square.  
+   - Upon reaching the doorstep, notify the recipient by playing a sound.  
+
+## Hardware and Technology  
+- **CyBot**: The Package Delivery Robot will utilize CyBot for autonomous navigation and delivery.  
+- **Microcontroller**: Built on **TM4C Microcontrollers** for precision control and efficient performance.  
